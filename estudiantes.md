@@ -1,4 +1,4 @@
-| Nombre y Apellido | Hobby Favorito |
+| Aldana y Ribeiro | Leer y mirar pelis |
 
 | :--- | :--- |
 
